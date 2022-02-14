@@ -23,16 +23,15 @@ Please refer to the paper for details. You are more than welcome to use the code
 
 If you use this code for your research, please cite our paper. Thank you!
 
-@article{SUN202216,
-
-title = {Structured graph based image regression for unsupervised multimodal change detection},
-journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-volume = {185},
-pages = {16-31},
-year = {2022},
-issn = {0924-2716},
-doi = {https://doi.org/10.1016/j.isprsjprs.2022.01.004},
-url = {https://www.sciencedirect.com/science/article/pii/S0924271622000089},
+@article{SUN202216,  
+title = {Structured graph based image regression for unsupervised multimodal change detection},  
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},  
+volume = {185},  
+pages = {16-31},  
+year = {2022},  
+issn = {0924-2716},  
+doi = {https://doi.org/10.1016/j.isprsjprs.2022.01.004},  
+url = {https://www.sciencedirect.com/science/article/pii/S0924271622000089},  
 author = {Yuli Sun and Lin Lei and Xiang Tan and Dongdong Guan and Junzheng Wu and Gangyao Kuang}} 
 
 ## Future work
