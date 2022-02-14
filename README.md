@@ -24,6 +24,7 @@ Please refer to the paper for details. You are more than welcome to use the code
 If you use this code for your research, please cite our paper. Thank you!
 
 @article{SUN202216,
+
 title = {Structured graph based image regression for unsupervised multimodal change detection},
 journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
 volume = {185},
