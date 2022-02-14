@@ -36,11 +36,8 @@ author = {Yuli Sun and Lin Lei and Xiang Tan and Dongdong Guan and Junzheng Wu a
 
 ## Future work
 
-In this work, due to the computational complexity, we only consider the forward transformation, i.e., translating the pre-event image to the domain of post-event image. 
-Our future work is to improve its computation efficiency and design an effective fusion strategy to fuse the forward and backward detection results, 
-thus improving the detection performance.
+Our future work is to improve the computation effciency and design an effective fusion strategy to fuse the forward and backward transformations, thus improving the CD performance.
 
 ## Q & A
-Other codes will be updated soon.
 
 If you have any queries, please do not hesitate to contact me (yulisun@mail.ustc.edu.cn ).
