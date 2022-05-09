@@ -2,7 +2,7 @@
 Structured graph based image regression for unsupervised multimodal change detection
 
 ## Introduction
-Code: (H)GIR-MRF - 2021
+MATLAB Code: (H)GIR-MRF - 2021
 This is a test program for the graph based image regression and MRF segmentation method (GIR-MRF) for multimodal change detection problem.
 
 GIR-MRF is an unsupervised image regression method based on the inherent structure consistency between heterogeneous images, which learns a structured graph and computes the regression image by graph projection. Firstly, the proposed method uses the self-expression property to preserve the global structure of image and uses the adaptive neighbor approach to capture the local structure of image in the graph learning process. Then, with the learned graph, two types of structure constraints are introduced into the regression model: one corresponds to the global selfexpression constraint and the other corresponds to the local similarity constraint, which can be further implemented by using graph or hypergraph Laplacian based regularization. Finally, a Markov segmentation model is designed to calculate the binary change map, which combines the change information and spatial information to improve the detection accuracy.
