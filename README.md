@@ -11,11 +11,15 @@ Please refer to the paper for details. You are more than welcome to use the code
 
 ===================================================
 
-## Available datasets
+## Available datasets and Graph Cut algorithm
 
 #2-Texas is download from Professor Michele Volpi's webpage at https://sites.google.com/site/michelevolpiresearch/home.
 
 #6-California is download from Dr. Luigi Tommaso Luppino's webpage (https://sites.google.com/view/luppino/data) and it was downsampled to 875*500 as shown in our paper.
+
+The graphCut algorithm is download from Professor Anton Osokin's webpage at https://github.com/aosokin/graphCutMex_BoykovKolmogorov.
+
+If you use these resources, please cite their relevant papers.
 
 ===================================================
 
@@ -38,6 +42,8 @@ author = {Yuli Sun and Lin Lei and Xiang Tan and Dongdong Guan and Junzheng Wu a
 
 Our future work is to improve the computation effciency and design an effective fusion strategy to fuse the forward and backward transformations, thus improving the CD performance.
 
-## Q & A
+## Running
 
-If you have any queries, please do not hesitate to contact me (sunyuli@mail.ustc.edu.cn ).
+Unzip the Zip files (GC) and run the GIR-MRF demo file (tested in Matlab 2016a)! 
+
+If you have any queries, please do not hesitate to contact me (sunyuli@mail.ustc.edu.cn).
