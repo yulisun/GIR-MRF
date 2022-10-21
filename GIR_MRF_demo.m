@@ -11,9 +11,8 @@ ISPRS Journal of Photogrammetry and Remote Sensing 185 (2022): 16-31.
 %}
 clear;
 close all
-addpath('auxi_funcs')
+addpath(genpath(pwd))
 %% load dataset
-addpath('datasets')
 % Please note that the forward and backward detection results are not the same. 
 % When the forward result is not satisfactory, try swapping the input order of image_t1 and image_t2 to get the backward change detection result. 
 % In the future we will consider fusing the forward and backward results to improve detection performance.
